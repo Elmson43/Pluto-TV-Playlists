@@ -1,6 +1,6 @@
 {
   "outdir": "./output",
-  "clientID": "9639a35f-6002-4eb3-b2ba-33402273e2f7",
+  "clientID": 9639a35f-6002-4eb3-b2ba-33402273e2f7,
   "mapping": {
     "us": "45.50.96.71",
     "uk": "51.89.255.67",
